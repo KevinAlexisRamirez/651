@@ -1,0 +1,4 @@
+America::Pumas::5::2
+Toluca::Santos::0::0
+Tigres::Atlas::2::2
+Chivas::Jaguares::3::2
